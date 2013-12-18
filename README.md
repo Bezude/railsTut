@@ -1,1 +1,3 @@
-This readme is unwritten like Natasha Bedingfield.
+Learning Rails
+ ==
+ Learning Rails with a tutorial from the RailsApps project.
