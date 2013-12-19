@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Tut::Application.config.secret_key_base = '108d61c56767be053610e11974e153c8df585fa278e6386127e5a892dd4661b7b9b856e8010b11ed1d99351f545eea008dac54f8cd83e08ad638218f613c7838'
+LearnRails::Application.config.secret_key_base = 'd9dbd83fc99b8cb126c3c00e55702e85ebb2e7794895a5cb2a23814590eab508cba80316b32a86fc7483f588bdeb146a142d9e0fe40c878d308a4c0589248fcc'
